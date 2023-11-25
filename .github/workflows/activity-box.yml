@@ -15,4 +15,4 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USERNAME: JasonEtco
-          GIST_ID: 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
+          GIST_ID: ghttps://gist.github.com/sdchoi07/7882fa582eca813420c4390da1f65cd1
